@@ -31,7 +31,7 @@ git push origin --force --all
 
 ## Create a New Branch
 
-The following commands are used to create a new branch with a new initial commit, delete the old branch, and force push the new branch to the remote repository.
+The following commands are used to create a new branch with a new initial commit (new history), delete the old branch, and force push the new branch to the remote repository.
 
 ```bash
 git checkout --orphan newBranch
